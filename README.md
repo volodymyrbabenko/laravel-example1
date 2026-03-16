@@ -38,9 +38,6 @@ This project demonstrates:
 - organization of business logic
 - modular content management
 - clean and readable code
-
-
-
 6. Start the development server
 
 
