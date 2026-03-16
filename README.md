@@ -43,17 +43,28 @@ This project demonstrates:
 
 1. Clone the repository
 2. Install dependencies
-   
-composer install
-4. Create `.env` file
-   
+3. composer install
+
+
+Create `.env` file
+
+
 cp .env.example .env
-5. Generate application key
-   
+
+
+4. Generate application key
+
+
 php artisan key:generate
-6. Run migrations
-   
+
+
+5. Run migrations
+
+
 php artisan migrate
-7. Start the development server
-   
-php artisan serve
+
+
+6. Start the development server
+
+
+php artisan serve 
